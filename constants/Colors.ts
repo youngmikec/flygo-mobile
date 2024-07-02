@@ -1,0 +1,16 @@
+export const Colors = {
+  primary: '#FF8608',
+  secondary: '#f50057',
+  white: '#ffffff',
+  black: 'rgba(18, 18, 18, 0.8)',
+  gray: '#9e9e9e',
+  paleYellow: '#FFF4EB',
+  blue: '#167EE6',
+  lightGray: '#9E9EA6',
+  red: '#DC2626',
+  tabActive: "#FE8181",
+  bgColor: '#4A72AF',
+  lightBlue: 'rgba(74, 114, 175, 0.7)',
+  success: '#0CBC8B',
+  successAlert: 'rgba(12, 188, 139, 0.2)',
+}
